@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geekers-donald237
 - 👀 I’m interested by code
-- 🌱 I’m currently learning c programing langauage
+- 🌱 I’m currently learning c programing language
 - 💞️ I’m looking to collaborate on amazing tech projects
 - 📫 How to reach me ...
 
